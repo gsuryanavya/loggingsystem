@@ -1,0 +1,7 @@
+New user Authenticated!
+Username: Golla Navya
+Password: gsuryanavya28
+URL: /api/checkLoggerData/Golla%20Navya/gsuryanavya28
+Date: 7/10/2024, 6:47:19 PM
+Method Type: POST
+
